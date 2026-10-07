@@ -2,7 +2,7 @@
 
 **Information Technology Undergraduate | Full-Stack Development • Data & AI**
 
-Studying at **Universiti Tun Hussein Onn Malaysia (UTHM)** and building full-stack applications, SaaS platforms and business systems with Laravel, React and TypeScript.
+Studying at **Universiti Tun Hussein Onn Malaysia (UTHM)** and building full-stack applications, SaaS platforms and business systems with Laravel, React and TypeScript. My experience includes integrating OCR and explainable decision-support workflows.
 
 **Seeking Software Development, Full-Stack, Web Development, Data/AI or related IT internship opportunities for 1 February – 16 July 2027.**
 
@@ -21,34 +21,45 @@ I'm interested in turning real business workflows into clear, usable software. M
 
 | Area | Technologies |
 |---|---|
-| Web development | Laravel, PHP, React, TypeScript, JavaScript, Tailwind CSS |
+| Web development | Laravel, PHP, React, TypeScript, JavaScript, Tailwind CSS, REST APIs |
 | Data & databases | Python, SQL, MySQL |
 | Testing & version control | PHPUnit, Playwright, Git, GitHub |
-| Additional exposure | Machine Learning, Data Science, REST APIs, Flutter / Dart, Firebase |
+| AI / data tooling | FastAPI, PaddleOCR; continued learning in Data Science and Machine Learning |
+| Additional exposure | Flutter / Dart, Firebase |
 
 ## Featured Projects
 
-### [BinaHQ](https://github.com/ezamiruls-spec/binahq) — Flagship SaaS / Full-Stack Project
+### [MySTEP Intelligent Application System (MIAS)](https://github.com/ezamiruls-spec/mias) — Flagship Project
+
+A full-stack HR governance and recruitment decision-support system developed under **Project AI Johor**.
+
+- **Role:** End-to-End Developer, from requirements and system design through implementation and integration.
+- Integrates OCR-assisted document processing, explainable rule-based candidate analysis, candidate ranking, multi-stage quota governance and placement workflows.
+- **Technologies:** Laravel, PHP, MySQL, Python, FastAPI and PaddleOCR.
+- Public project case study with system interface screenshots; application source code is not publicly distributed.
+
+### [BinaHQ](https://github.com/ezamiruls-spec/binahq) — Contractor Management SaaS
 
 A multi-tenant SaaS platform for contractor project and commercial management.
 
 - **Status:** Active Development
-- Connects enquiry, customer, site visit, cost estimate and quotation workflows.
-- Built with Laravel, React and TypeScript, with automated PHP and browser tests.
+- Tenant-aware architecture connecting enquiry, customer, site visit, cost estimate and quotation workflows.
+- **Technologies:** Laravel, React, TypeScript and MySQL, with automated PHP and browser tests.
 
 ### [VenueFlow](https://github.com/ezamiruls-spec/venueflow) — Prototype / Demo
 
-A full-stack event business management prototype built with Laravel and React.
+A full-stack event-business management platform prototype built with Laravel, React and TypeScript.
 
-- Demonstrates enquiries, quotations, bookings, calendars, manual payment records and operations scheduling.
+- Demonstrates enquiry, quotation, booking, calendar, manual payment ledger and operations workflows.
 - Includes catalogue management and reporting.
-- A portfolio prototype/demo, not a production client deployment. Current limitations are documented in the repository.
+- A prototype/demo, not a production client deployment. Current limitations are documented in the repository.
 
 ## Current Focus
 
-- Building and improving **BinaHQ** and other full-stack projects.
-- Strengthening software engineering, automated testing and API development.
-- Expanding my practical skills in **Data & AI / Machine Learning**.
+- Strengthening full-stack development and software engineering.
+- Building SaaS platforms and usable business systems.
+- Expanding practical skills in **Data & AI** and intelligent system integration.
+- Improving automated testing and API development.
 
 ## Contact / Connect
 
